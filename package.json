@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "moment": "^2.21.0",
+    "moment": "^2.29.2",
     "vue": "^2.5.2",
     "vue-flickity": "^1.0.9",
     "vue-resource": "^1.5.0"
